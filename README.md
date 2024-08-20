@@ -31,7 +31,8 @@
 
 ### SPCE0038 - ML Big Data
 
-- should be aware of the fundamentals of ML before (e.g. linear regression, logistic, nearest neighbours etc)
+- should be aware of the fundamentals of ML before (e.g. linear regression, logistic regression, k nearest neighbours etc)
+- brushing up your maths knowledge (linear algebra basics, limits, calculus ie differentiation and integration) will help with understanding a lot of the course material, although the exam questions are very random and you might be able to skip the mathy questions
 
 
 ### COMP0020 - Functional Programming
@@ -64,8 +65,12 @@
 1. Python (very comfortable)
     - minimum level would comfortably being able to code a hangman game (with classes, functions, loops, file I/O)
     - recommended is doing actual projects
-2. HTML, CSS, (+ JavaScript) (+ very basic understanding of how websites work) - basic understanding
-3. SQL - basic understanding
-4. Command - basic understanding
+2. HTML, CSS, (+ JavaScript) (+ very basic understanding of how websites work, GET and POST requests) - basic understanding
+3. Git and GitHub - Tracking your development progress and enabling parallel development in a team. If you don't have a solid understanding of Git, you will find it challenging to develop alongside others in team coding projects (COMP0066, COMP0178, COMP0067)
+    - Git basics: create repository, clone repository, staging, commit, revert vs reset vs rebase,
+    - How to use Git in a team setting: local vs remote repository, branching, merging and pull requests, handling merge conflicts
+    - Visualizing the history of a project in a commit graph (either through commands or code editor extensions, eg git graph in VSCode)
+4. SQL - basic understanding
+5. Command - basic understanding
 
 don't wait until the course starts to learn it as won't be good enough to do well in course and interviews
