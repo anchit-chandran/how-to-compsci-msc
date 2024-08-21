@@ -21,6 +21,7 @@
 
 - go over Neetcode's course on algorithms before module starts, good explanations
 - if you don't have a maths background, you will need to put in a lot of extra effort to understand it, but it does make sense eventually - learning it sets foundation for rest of course
+- Most of the content is more on the theoretical side and might not be directly useful for interviews, but being able to analyse and explain the worst-case time and space complexities (big O notation) for a given algorithm is important for leetcode-style interviews. See Neetcode course.
 
 ### COMP0178 - Database Fundamentals
 
@@ -31,7 +32,8 @@
 
 ### SPCE0038 - ML Big Data
 
-- should be aware of the fundamentals of ML before (e.g. linear regression, logistic, nearest neighbours etc)
+- should be aware of the fundamentals of ML before (e.g. linear regression, logistic regression, k nearest neighbours etc)
+- brushing up your maths knowledge (linear algebra basics, limits, calculus ie differentiation and integration) will help with understanding a lot of the course material, although the exam questions are very random and you might be able to skip the mathy questions
 
 
 ### COMP0020 - Functional Programming
@@ -45,6 +47,7 @@
 - one of the best projects if your group is good
 - expect to do a lot of programming for it but most indicative of real world software engineering
 - asking for more difficult project can screw you over by making you team leader of less experienced group
+- Prioritize developing a well-rounded software product—including frontend, backend, and testing, along with writing a strong report, rather than getting caught up in gathering all requirements. If you have an external client, remember they are there to provide context, but if they present too many or frequently changing requirements, prioritize execution. Your grade is ultimately based on delivering quality work as assessed by your lecturer, not the external client.
 
 ## Job Tips
 
@@ -54,6 +57,7 @@
 - what to do?
     - leetcode
     - neetcode (sys design, algo course, do in his order, pay for premium)
+    - throughout your projects, take notes of your design decisions, impact, challenges you overcame, effective collaboration, so you can tell relevant and detailed stories (STAR framework or equivalent) in your behaivoural and technical conversation interviews
 
 
 
@@ -64,8 +68,12 @@
 1. Python (very comfortable)
     - minimum level would comfortably being able to code a hangman game (with classes, functions, loops, file I/O)
     - recommended is doing actual projects
-2. HTML, CSS, (+ JavaScript) (+ very basic understanding of how websites work) - basic understanding
-3. SQL - basic understanding
-4. Command - basic understanding
+2. HTML, CSS, (+ JavaScript) (+ very basic understanding of how websites work, GET and POST requests) - basic understanding
+3. Git and GitHub - Tracking your development progress and enabling parallel development in a team. If you don't have a solid understanding of Git, you will find it challenging to develop alongside others in team coding projects (COMP0066, COMP0178, COMP0067)
+    - Git basics: create repository, clone repository, staging, commit, revert vs reset vs rebase,
+    - How to use Git in a team setting: local vs remote repository, branching, merging and pull requests, handling merge conflicts
+    - Visualizing the history of a project in a commit graph (either through commands or code editor extensions, eg git graph in VSCode)
+4. SQL - basic understanding
+5. Command - basic understanding
 
 don't wait until the course starts to learn it as won't be good enough to do well in course and interviews
