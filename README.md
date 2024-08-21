@@ -57,6 +57,7 @@
 - what to do?
     - leetcode
     - neetcode (sys design, algo course, do in his order, pay for premium)
+    - throughout your projects, take notes of your design decisions, impact, challenges you overcame, effective collaboration, so you can tell relevant and detailed stories (STAR framework or equivalent) in your behaivoural and technical conversation interviews
 
 
 
