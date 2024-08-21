@@ -21,6 +21,7 @@
 
 - go over Neetcode's course on algorithms before module starts, good explanations
 - if you don't have a maths background, you will need to put in a lot of extra effort to understand it, but it does make sense eventually - learning it sets foundation for rest of course
+- Most of the content is more on the theoretical side and might not be directly useful for interviews, but being able to analyse and explain the time and space complexity (big O notation) for a given algorithm is important for leetcode-style interviews. See Neetcode course.
 
 ### COMP0178 - Database Fundamentals
 
