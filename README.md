@@ -46,6 +46,7 @@
 - one of the best projects if your group is good
 - expect to do a lot of programming for it but most indicative of real world software engineering
 - asking for more difficult project can screw you over by making you team leader of less experienced group
+- Prioritize developing a well-rounded software product—including frontend, backend, and testing, along with writing a strong report, rather than getting caught up in gathering all requirements. If you have an external client, remember they are there to provide context, but if they present too many or frequently changing requirements, prioritize execution. Your grade is ultimately based on delivering quality work as assessed by your lecturer, not the external client.
 
 ## Job Tips
 
