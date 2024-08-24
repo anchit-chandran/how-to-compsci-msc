@@ -42,6 +42,7 @@
 
 - harder module but one of the best for computer science / software engineering careers
 - uses Miranda
+- very few docs online but made the man page into a searchable docs website here: https://anchit-chandran.github.io/mira-man-mkdoc/7/
 - requires decent amount of extra work and practice but very worth it. one of the most useful modules
 - if you have the time, learn some Haskell (more resources online) as this is transferrable
 
@@ -57,7 +58,7 @@
 
 - when to start?
     - if leetcoded before, start asap
-    - if never leetcoded, start leetcoding, look to apply around exam time in May (best prepped for interviews, including info from modules)
+    - if never leetcoded, start leetcoding, look to apply around exam time in May (best prepped for interviews, including info from modules - particularly if from non-maths / non-technical background)
 - what to do?
     - leetcode
     - neetcode (sys design, algo course, do in his order, pay for premium)
