@@ -1,79 +1,87 @@
-# Tips for UCL Computer Science MSc
+# Guide for UCL Computer Science MSc Students
 
-- intro text
-- advice tailored to doing as well as possible, as efficiently as possible, optimising for a software engineering job on the other side
+Authors:
 
-## Module Tips
+Welcome to the UCL Computer Science MSc programme! This guide is designed to help you succeed as efficiently as possible, with a focus on optimising your experience to prepare for a career in software engineering. This is by no means an expectation for the Course and you could definitely do well without any of it.
+
+It's specifically tailored to what we wish we had known before starting the course. Feel free to get in touch with any of us if you have any queries!
+
+Below, you'll find tailored advice for specific modules, job preparation, and essential programming skills.
+
+## Module Advice
 
 ### COMP0066 - Introductory Programming
 
-- Learn Python, project is group to code a simple Python project
-    - should learn and be comfortable with Python before course starts. You technically don't need to but you will not be good enough for job interviews if you can't learn that yourself
-- your group will make or break your grade unfortunately
+- **Python Proficiency**: Ensure you're comfortable with Python before the course starts. While it's not strictly necessary, you'll struggle to reach the level needed for job interviews if you can't learn it on your own.
+- **Group Project**: Your group will significantly impact your grade. If you're confident in Python, consider taking on a leadership role.
 
 ### COMP0068 - Computer Architecture and Operating Systems
 
-- learn binary addition and subtraction before module, will be a lot easier
-- will be taught assembly (MIPS32). Good practice for exam revision: https://github.com/rohitdwivedula/mips-exercises
-- best way to learn MIPS is to practice it a lot, like any programming language
+- **Binary Operations**: Learn binary addition and subtraction beforehand; it will make the course easier.
+- **Assembly Language**: You'll learn MIPS32 assembly. Practice is key, especially for exam preparation. Check out this [MIPS practice resource](https://github.com/rohitdwivedula/mips-exercises).
+- **Practice**: Treat MIPS like any programming language—practice frequently to master it.
 
 ### COMP0070 - Algorithmics
 
-- go over Neetcode's course on algorithms before module starts, good explanations
-- if you don't have a maths background, you will need to put in a lot of extra effort to understand it, but it does make sense eventually - learning it sets foundation for rest of course
-- Most of the content is more on the theoretical side and might not be directly useful for interviews, but being able to analyse and explain the worst-case time and space complexities (big O notation) for a given algorithm is important for leetcode-style interviews. See Neetcode course.
+- **Pre-Course Preparation**: Review Neetcode's algorithm course before starting. It offers good explanations and will help you grasp the material.
+- **Mathematical Foundations**: If you lack a maths background, be prepared to put in extra effort. Understanding summations and their deconstruction is crucial.
+- **Theoretical Focus**: The module is theory-heavy. While not directly useful for interviews, being able to analyse and explain worst-case time and space complexities (Big O notation) is important for technical interviews.
 
 ### COMP0178 - Database Fundamentals
 
-- learn SQL, HTML, CSS before module starts, will be a lot easier
-- we had group project in PHP and SQL.
-- most important module for system design interviews
-- relational algebra seems scary at first but during revision, it makes a lot more sense, particularly when doing past papers
+- **Pre-Course Skills**: Learn SQL, HTML, and CSS before starting. It will make the course easier.
+- **Group Project**: We had a group project involving PHP and SQL. This module is vital for system design interviews.
+- **Relational Algebra**: Initially intimidating, relational algebra becomes more understandable during revision, especially with past papers.
 
-### SPCE0038 - ML Big Data
+### SPCE0038 - ML Big Data
 
-- should be aware of the fundamentals of ML before (e.g. linear regression, logistic regression, k nearest neighbours etc)
-- brushing up your maths knowledge (linear algebra basics, limits, calculus ie differentiation and integration) will help with understanding a lot of the course material, although the exam questions are very random and you might be able to skip the mathy questions
-
+- **ML Fundamentals**: Familiarise yourself with basic ML concepts like linear regression, logistic regression, and k-nearest neighbours.
+- **Maths Preparation**: Refresh your knowledge of linear algebra, limits, and calculus (differentiation and integration). While exam questions can be random, understanding the math will help with course material.
 
 ### COMP0020 - Functional Programming
 
-- harder module but one of the best for computer science / software engineering careers
-- uses Miranda
-- requires decent amount of extra work and practice but very worth it. one of the most useful modules
+- **Module Difficulty**: This is a challenging but highly valuable module for a career in software engineering.
+- **Language**: The module uses Miranda. Resources are scarce, but you can use this [searchable docs website](https://anchit-chandran.github.io/mira-man-mkdoc/7/).
+- **Extra Effort Required**: Be prepared to put in extra work, but it's worth it. Consider learning Haskell, as it has more online resources and is transferable.
 
-### COMP0067 - App Engineering
+### COMP0067 - App Engineering
 
-- one of the best projects if your group is good
-- expect to do a lot of programming for it but most indicative of real world software engineering
-- asking for more difficult project can screw you over by making you team leader of less experienced group
-- Prioritize developing a well-rounded software product—including frontend, backend, and testing, along with writing a strong report, rather than getting caught up in gathering all requirements. If you have an external client, remember they are there to provide context, but if they present too many or frequently changing requirements, prioritize execution. Your grade is ultimately based on delivering quality work as assessed by your lecturer, not the external client.
+- **Group Project**: This module offers one of the best project experiences if you have a good group. You'll do a lot of programming, reflecting real-world software engineering.
+- **Project Management**: If assigned a more difficult project, be cautious as it may lead to you becoming the team leader of a less experienced group.
+- **Focus on Execution**: Prioritise developing a well-rounded software product (frontend, backend, testing) and writing a strong report over gathering all requirements. Your grade depends on delivering quality work as assessed by your lecturer, not the external client.
+- **Holiday Preparation**: This module is after Christmas; use the holiday period to practice React and NextJS. Being proficient in these technologies will allow you to start coding immediately once the project begins.
 
-## Job Tips
+## Job Preparation Tips
 
-- when to start?
-    - if leetcoded before, start asap
-    - if never leetcoded, start leetcoding, look to apply around exam time in May (best prepped for interviews, including info from modules)
-- what to do?
-    - leetcode
-    - neetcode (sys design, algo course, do in his order, pay for premium)
-    - throughout your projects, take notes of your design decisions, impact, challenges you overcame, effective collaboration, so you can tell relevant and detailed stories (STAR framework or equivalent) in your behaivoural and technical conversation interviews
+- **When to Start?**
+  - If you've used LeetCode before, start applying as soon as possible.
+  - If you're new to LeetCode, begin practising and aim to start applying around exam time in May. By then, you'll be well-prepared for interviews, especially if you come from a non-maths or non-technical background.
 
+- **What to Do?**
+  - **LeetCode**: Practise regularly.
+  - **NeetCode**: Follow NeetCode’s system design and algorithm course in order, and consider paying for premium access.
+  - **Project Documentation**: Throughout your projects, take notes on your design decisions, challenges you overcame, and effective collaboration. These will be useful for telling relevant stories during behavioural and technical interviews (using the STAR framework or similar).
+  - **Be Vocal**: Engage actively in projects, ideally as a group leader. These experiences will be invaluable for interviews, particularly if you lack prior work experience.
 
+- **Application Strategy**: Don't rush to apply before you're ready. Take the time to prepare with LeetCode and other resources to improve your success rate.
 
-## Programming Tips
+## Essential Programming Skills
 
-- you should definitely know before the course starts:
+You should be proficient in the following areas before the course starts:
 
-1. Python (very comfortable)
-    - minimum level would comfortably being able to code a hangman game (with classes, functions, loops, file I/O)
-    - recommended is doing actual projects
-2. HTML, CSS, (+ JavaScript) (+ very basic understanding of how websites work, GET and POST requests) - basic understanding
-3. Git and GitHub - Tracking your development progress and enabling parallel development in a team. If you don't have a solid understanding of Git, you will find it challenging to develop alongside others in team coding projects (COMP0066, COMP0178, COMP0067)
-    - Git basics: create repository, clone repository, staging, commit, revert vs reset vs rebase,
-    - How to use Git in a team setting: local vs remote repository, branching, merging and pull requests, handling merge conflicts
-    - Visualizing the history of a project in a commit graph (either through commands or code editor extensions, eg git graph in VSCode)
-4. SQL - basic understanding
-5. Command - basic understanding
+1. **Python**: Be very comfortable with Python.
+   - Minimum: Be able to code a hangman game (with classes, functions, loops, file I/O).
+   - Recommended: Complete some actual projects.
 
-don't wait until the course starts to learn it as won't be good enough to do well in course and interviews
+2. **Web Development**: Have a basic understanding of HTML, CSS, and JavaScript, along with a basic knowledge of how websites work (e.g., GET and POST requests).
+
+3. **Git and GitHub**: Understand how to track your development progress and enable parallel development in a team.
+   - **Git Basics**: Know how to create a repository, clone it, stage changes, commit, and understand the differences between revert, reset, and rebase.
+   - **Team Collaboration**: Learn about local vs remote repositories, branching, merging, pull requests, and handling merge conflicts. Can see this guide for a branch-merge workflow for teams: [https://playbook.rcpch.tech/developer/git/walkthrough/](https://playbook.rcpch.tech/developer/git/walkthrough/).
+   - **Visualising History**: Use tools like Git Graph in VSCode to visualise project history - really reeccomend!
+
+4. **SQL**: Have a basic understanding of SQL.
+
+5. **Command Line**: Be comfortable with basic command line operations.
+
+**Note**: Don't wait until the course starts to learn these skills, as they are essential for doing well in the course and for interviews.
