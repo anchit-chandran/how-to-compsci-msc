@@ -10,6 +10,7 @@
 - Learn Python, project is group to code a simple Python project
     - should learn and be comfortable with Python before course starts. You technically don't need to but you will not be good enough for job interviews if you can't learn that yourself
 - your group will make or break your grade unfortunately
+- if you are confident with Python, use this as an opportunity to act as a group leader. 
 
 ### COMP0068 - Computer Architecture and Operating Systems
 
@@ -21,6 +22,7 @@
 
 - go over Neetcode's course on algorithms before module starts, good explanations
 - if you don't have a maths background, you will need to put in a lot of extra effort to understand it, but it does make sense eventually - learning it sets foundation for rest of course
+- Be familiar with summations and how they work and can be deconstructed
 - Most of the content is more on the theoretical side and might not be directly useful for interviews, but being able to analyse and explain the worst-case time and space complexities (big O notation) for a given algorithm is important for leetcode-style interviews. See Neetcode course.
 
 ### COMP0178 - Database Fundamentals
@@ -30,7 +32,7 @@
 - most important module for system design interviews
 - relational algebra seems scary at first but during revision, it makes a lot more sense, particularly when doing past papers
 
-### SPCE0038 - ML Big Data
+### SPCE0038 - ML Big Data
 
 - should be aware of the fundamentals of ML before (e.g. linear regression, logistic regression, k nearest neighbours etc)
 - brushing up your maths knowledge (linear algebra basics, limits, calculus ie differentiation and integration) will help with understanding a lot of the course material, although the exam questions are very random and you might be able to skip the mathy questions
@@ -41,13 +43,15 @@
 - harder module but one of the best for computer science / software engineering careers
 - uses Miranda
 - requires decent amount of extra work and practice but very worth it. one of the most useful modules
+- if you have the time, learn some Haskell (more resources online) as this is transferrable
 
-### COMP0067 - App Engineering
+### COMP0067 - App Engineering
 
 - one of the best projects if your group is good
 - expect to do a lot of programming for it but most indicative of real world software engineering
 - asking for more difficult project can screw you over by making you team leader of less experienced group
 - Prioritize developing a well-rounded software product—including frontend, backend, and testing, along with writing a strong report, rather than getting caught up in gathering all requirements. If you have an external client, remember they are there to provide context, but if they present too many or frequently changing requirements, prioritize execution. Your grade is ultimately based on delivering quality work as assessed by your lecturer, not the external client.
+- This module is after christmas; if you have the time over the holiday, practice React and NextJS. Experience in this will mean you can start coding as soon as you've got your project
 
 ## Job Tips
 
@@ -58,6 +62,8 @@
     - leetcode
     - neetcode (sys design, algo course, do in his order, pay for premium)
     - throughout your projects, take notes of your design decisions, impact, challenges you overcame, effective collaboration, so you can tell relevant and detailed stories (STAR framework or equivalent) in your behaivoural and technical conversation interviews
+          - Be vocal in projects, ideally as group leader. These will be your best experiences to talk about, especially if you do not have prior internships/experience.
+- Don't waste time applying before doing leetcodes/being ready for an interview. Apply with a good foundation and success rate will be much better
 
 
 
