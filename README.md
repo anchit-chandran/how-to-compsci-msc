@@ -39,7 +39,7 @@ Below, you'll find tailored advice for specific modules, job preparation, and es
 ### COMP0020 - Functional Programming
 
 - **Module Difficulty**: This is a challenging but highly valuable module for a career in software engineering.
-- **Language**: The module uses Miranda. Resources are scarce, but you can use this [searchable docs website](https://anchit-chandran.github.io/mira-man-mkdoc/7/).
+- **Language**: The module uses Miranda. Resources are scarce, but you can use this [searchable docs website](https://anchit-chandran.github.io/mira-man-mkdoc/7/) we made.
 - **Extra Effort Required**: Be prepared to put in extra work, but it's worth it. Consider learning Haskell, as it has more online resources and is transferable.
 
 ### COMP0067 - App Engineering
