@@ -60,6 +60,7 @@ Below, you'll find tailored advice for specific modules, job preparation, and es
   - **NeetCode**: Follow NeetCode’s system design and algorithm course in order, and consider paying for premium access.
   - **Project Documentation**: Throughout your projects, take notes on your design decisions, challenges you overcame, and effective collaboration. These will be useful for telling relevant stories during behavioural and technical interviews (using the STAR framework or similar).
   - **Be Vocal**: Engage actively in projects, ideally as a group leader. These experiences will be invaluable for interviews, particularly if you lack prior work experience.
+  - **CV**: Your CV must be one-page max.
 
 - **Application Strategy**: Don't rush to apply before you're ready. Take the time to prepare with LeetCode and other resources to improve your success rate.
 
