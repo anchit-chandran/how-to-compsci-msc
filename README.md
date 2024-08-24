@@ -1,10 +1,8 @@
 # Guide for UCL Computer Science MSc Students
 
-Authors:
+Welcome to the UCL Computer Science MSc programme! This guide is designed to help you succeed as efficiently as possible, focusing on optimising your experience to prepare for a career in software engineering. This is by no means an expectation for the Course; you could do well without any of it.
 
-Welcome to the UCL Computer Science MSc programme! This guide is designed to help you succeed as efficiently as possible, with a focus on optimising your experience to prepare for a career in software engineering. This is by no means an expectation for the Course and you could definitely do well without any of it.
-
-It's specifically tailored to what we wish we had known before starting the course. Feel free to get in touch with any of us if you have any queries!
+It's tailored to what we wish we had known before starting the course. Feel free to contact any of us if you have any queries!
 
 Below, you'll find tailored advice for specific modules, job preparation, and essential programming skills.
 
@@ -12,12 +10,12 @@ Below, you'll find tailored advice for specific modules, job preparation, and es
 
 ### COMP0066 - Introductory Programming
 
-- **Python Proficiency**: Ensure you're comfortable with Python before the course starts. While it's not strictly necessary, you'll struggle to reach the level needed for job interviews if you can't learn it on your own.
-- **Group Project**: Your group will significantly impact your grade. If you're confident in Python, consider taking on a leadership role.
+- **Python Proficiency**: Ensure you're comfortable with Python before the course starts. While it's not strictly necessary, you'll struggle to reach the level needed for job interviews if you can't learn it independently.
+- **Group Project**: Your group will significantly impact your grade. 
 
 ### COMP0068 - Computer Architecture and Operating Systems
 
-- **Binary Operations**: Learn binary addition and subtraction beforehand; it will make the course easier.
+- **Binary Operations**: Learn binary addition and subtraction beforehand, making the course easier.
 - **Assembly Language**: You'll learn MIPS32 assembly. Practice is key, especially for exam preparation. Check out this [MIPS practice resource](https://github.com/rohitdwivedula/mips-exercises).
 - **Practice**: Treat MIPS like any programming language—practice frequently to master it.
 
@@ -25,12 +23,12 @@ Below, you'll find tailored advice for specific modules, job preparation, and es
 
 - **Pre-Course Preparation**: Review Neetcode's algorithm course before starting. It offers good explanations and will help you grasp the material.
 - **Mathematical Foundations**: If you lack a maths background, be prepared to put in extra effort. Understanding summations and their deconstruction is crucial.
-- **Theoretical Focus**: The module is theory-heavy. While not directly useful for interviews, being able to analyse and explain worst-case time and space complexities (Big O notation) is important for technical interviews.
+- **Theoretical Focus**: The module is theory-heavy. While not directly useful for interviews, analysing and explaining worst-case time and space complexities (Big O notation) is important for technical interviews.
 
 ### COMP0178 - Database Fundamentals
 
 - **Pre-Course Skills**: Learn SQL, HTML, and CSS before starting. It will make the course easier.
-- **Group Project**: We had a group project involving PHP and SQL. This module is vital for system design interviews.
+- **Group Project**: We had a project involving PHP and SQL. This module is vital for system design interviews.
 - **Relational Algebra**: Initially intimidating, relational algebra becomes more understandable during revision, especially with past papers.
 
 ### SPCE0038 - ML Big Data
@@ -47,8 +45,8 @@ Below, you'll find tailored advice for specific modules, job preparation, and es
 ### COMP0067 - App Engineering
 
 - **Group Project**: This module offers one of the best project experiences if you have a good group. You'll do a lot of programming, reflecting real-world software engineering.
-- **Project Management**: If assigned a more difficult project, be cautious as it may lead to you becoming the team leader of a less experienced group.
-- **Focus on Execution**: Prioritise developing a well-rounded software product (frontend, backend, testing) and writing a strong report over gathering all requirements. Your grade depends on delivering quality work as assessed by your lecturer, not the external client.
+- **Project Management**: If you request a more difficult project, be cautious as it may lead to you becoming the team leader of a less experienced group.
+- **Focus on execution**: Prioritise developing a well-rounded software product (frontend, backend, testing) and writing a strong report over gathering all requirements. Your grade depends on delivering quality work, as assessed by your lecturer, not the external client.
 - **Holiday Preparation**: This module is after Christmas; use the holiday period to practice React and NextJS. Being proficient in these technologies will allow you to start coding immediately once the project begins.
 
 ## Job Preparation Tips
@@ -77,7 +75,7 @@ You should be proficient in the following areas before the course starts:
 
 3. **Git and GitHub**: Understand how to track your development progress and enable parallel development in a team.
    - **Git Basics**: Know how to create a repository, clone it, stage changes, commit, and understand the differences between revert, reset, and rebase.
-   - **Team Collaboration**: Learn about local vs remote repositories, branching, merging, pull requests, and handling merge conflicts. Can see this guide for a branch-merge workflow for teams: [https://playbook.rcpch.tech/developer/git/walkthrough/](https://playbook.rcpch.tech/developer/git/walkthrough/).
+   - **Team Collaboration**: Learn about local vs. remote repositories, branching, merging, pull requests, and handling merge conflicts. For a branch-merge workflow for teams, see this guide: [https://playbook.rcpch.tech/developer/git/walkthrough/](https://playbook.rcpch.tech/developer/git/walkthrough/).
    - **Visualising History**: Use tools like Git Graph in VSCode to visualise project history - really reeccomend!
 
 4. **SQL**: Have a basic understanding of SQL.
