@@ -1,6 +1,6 @@
 # Guide for UCL Computer Science MSc Students
 
-Welcome to the UCL Computer Science MSc programme! This guide is designed to help you succeed as efficiently as possible, focusing on optimising your experience to prepare for a career in software engineering. This is by no means an expectation for the Course; you could do well without any of it.
+Welcome to the UCL Computer Science MSc programme! This guide is designed to help you succeed as efficiently as possible, focusing on optimising your experience to prepare for a career in software engineering. This is by no means an expectation for the Course; you could do well without any of it. But remember, you're competing against those with 4-year degrees, who've likely started programming multiple years before uni.
 
 It's tailored to what we wish we had known before starting the course. Feel free to contact any of us if you have any queries!
 
