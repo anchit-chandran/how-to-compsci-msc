@@ -4,6 +4,12 @@ Welcome to the UCL Computer Science MSc programme! This guide is designed to hel
 
 It's tailored to what we wish we had known before starting the course. Feel free to contact any of us if you have any queries!
 
+- [Anchit Chandran](https://www.linkedin.com/in/anchitchandran/)
+- [Hugo Ng](https://www.linkedin.com/in/hugorn/)
+- [Devan Govind](https://www.linkedin.com/in/devan-govind-32197522a/)
+
+**DISCLAIMER: this is based on our experience during the 23/24 year. Bear in mind all modules are subject to updates based on student feedback and market trends!
+
 Below, you'll find tailored advice for specific modules, job preparation, and essential programming skills.
 
 ## Module Advice
