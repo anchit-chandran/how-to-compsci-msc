@@ -83,7 +83,7 @@ You should be proficient in the following areas before the course starts:
 3. **Git and GitHub**: Understand how to track your development progress and enable parallel development in a team.
    - **Git Basics**: Know how to create a repository, clone it, stage changes, commit, and understand the differences between revert, reset, and rebase.
    - **Team Collaboration**: Learn about local vs. remote repositories, branching, merging, pull requests, and handling merge conflicts. For a branch-merge workflow for teams, see this guide: [https://playbook.rcpch.tech/developer/git/walkthrough/](https://playbook.rcpch.tech/developer/git/walkthrough/).
-   - **Visualising History**: Use tools like Git Graph in VSCode to visualise project history - really reeccomend!
+   - **Visualising History**: Use tools like Git Graph in VSCode to visualise project history - really recommend!
 
 4. **SQL**: Have a basic understanding of SQL.
 
