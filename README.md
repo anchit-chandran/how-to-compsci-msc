@@ -22,9 +22,9 @@ Below, you'll find tailored advice for specific modules, job preparation, and es
 - **Group Project**: Your group will significantly impact your grade.
 
 **2024**
-- You are taught fundamental principles that are needed throughout your career across all programming languages, Prof. Ghita is an excellent teacher and her lessons are stimulating additionally. Highly recommend covering the entire [w3schools](https://www.w3schools.com/python/default.asp) Python course in anticipation for this course. Begin codewars exercises as soon as you feel comfortable thereafter.
-- **Group Project**: Meet regularly and ensure your team are excellent communicators; begin early, the workload across courses is heavy and this project should not be left to a later date when you are juggling other course work and preparing for end-of-term tests.
-- **Exam**: Understand the Python language and its syntax in a code editor (remember indentation!). Be prepared to write one line code that would typically be done over several lines to gain the best marks.
+- You will be taught fundamental principles applicable across all programming languages. Prof. Ghita is an excellent teacher, and her lessons are engaging. I highly recommend completing the entire [w3schools](https://www.w3schools.com/python/default.asp) Python course in preparation for this module. Begin Codewars exercises as soon as you feel comfortable.
+- **Group Project**: Meet regularly and ensure your team communicates effectively. Start early—workload across modules is heavy, and this project should not be left until later when you're also juggling coursework and end-of-term tests.
+- **Exam**: Ensure you understand Python syntax in a code editor (remember indentation!). Be prepared to write concise one-liners for tasks that would typically require multiple lines to maximise marks.
 
 ### COMP0068 - Computer Architecture and Operating Systems
 **2023**
@@ -33,9 +33,9 @@ Below, you'll find tailored advice for specific modules, job preparation, and es
 - **Practice**: Treat MIPS like any programming language—practice frequently to master it.
 
 **2024**
-- Great course that moves at a strong pace, be sure to stay up-to-date.
-- Practice binary operations regularly and have a strong command of the MIPS Sheet. Similar to above, practice MIPS regularly and understand its structure thoroughly.
-- **Exam**: Focus less on theory and more on the practice of the various techniques you learn throughout the course. The exam covered almost all parts of the practical work covered in the course (LMC, binary, IEEE single point, MIPS, operating system job completion order, etc.) so be well-versed in the mathematical aspects.
+- This is a great course that moves at a fast pace, so be sure to stay up to date.
+- Regularly practice binary operations and develop a strong command of the MIPS sheet. Similar to the advice above, practice MIPS regularly and understand its structure thoroughly.
+- **Exam**: Focus less on theory and more on applying the techniques learned throughout the course. The exam covers almost all practical aspects, including LMC, binary, IEEE floating point, MIPS, operating system job scheduling, etc. Ensure you're well-versed in these mathematical concepts.
 
 ### COMP0070 - Algorithmics
 **2023**
@@ -44,8 +44,8 @@ Below, you'll find tailored advice for specific modules, job preparation, and es
 - **Theoretical Focus**: The module is theory-heavy. While not directly useful for interviews, analysing and explaining worst-case time and space complexities (Big O notation) is important for technical interviews.
 
 **2024**
-- Repeat of the above from 2023.
-- Neetcode's algorithm course will help and similarly easing yourself back into mathematical principles is imperative to do beforehand for the second part of the course.
+- The above advice from 2023 still applies.
+- NeetCode's algorithm course is highly recommended. Additionally, brushing up on mathematical principles beforehand is essential for the second half of the course.
 
 ### COMP0178 - Database Fundamentals
 **2023**
@@ -54,9 +54,9 @@ Below, you'll find tailored advice for specific modules, job preparation, and es
 - **Relational Algebra**: Initially intimidating, relational algebra becomes more understandable during revision, especially with past papers.
 
 **2024**
-- The hardest course of the term HIGHLY recommend learning SQL, HTML and PHP beforehand. Content can be overwhelming and prepare for lots of independent study.
-- Check out the previous years exam papers on [Exam papers UCL](https://www.ucl.ac.uk/library/digital-collections/collections/exam) so that you focus on the most appropriate content when attending lectures.
-- **Group Project**: Project also involved SQL and PHP. Important to work regularly on this and begin in the second work of term. Do not wait to form a group, actively go and look for proactive students to collaborate with. Their are essential requirements and then stretch goals for the project so prioritise your focus wisely.
+- The most challenging course of the term—I highly recommend learning SQL, HTML, and PHP beforehand. The content can be overwhelming, so be prepared for a lot of independent study.
+- **Exam**: Check out previous exam papers on [UCL Exam Papers](https://www.ucl.ac.uk/library/digital-collections/collections/exam) to focus on the most relevant content when attending lectures.
+- **Group Project**: The project also involved SQL and PHP. Work on it regularly and start in the second week of term. Do not wait to form a group—actively seek proactive students to collaborate with. There are essential requirements and stretch goals for the project, so prioritise wisely.
 
 ### SPCE0038 - ML Big Data
 
